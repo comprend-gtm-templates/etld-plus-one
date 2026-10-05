@@ -13,8 +13,8 @@
 # limitations under the License.
 
 homepage: "https://www.comprend.com"
-documentation: "https://github.com/comprend-gtm-templates/<REPLACE WITH REPOSITORY NAME>"
+documentation: "https://github.com/comprend-gtm-templates/etld-plus-one"
 versions:
-  - sha: <REPLACE WITH COMMIT SHA>
+  - sha: 0e4f421b0af0e8f8d8598878cd0f02454a17458f
     changeNotes: |-
       Initial release
